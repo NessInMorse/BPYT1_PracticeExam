@@ -56,7 +56,7 @@ main()
 Nakijkmodel:
 Indien er geen sprake is van gebruik van functies worden punten niet geteld.
 
-50pt totaal.
+55pt totaal.
         10pt een box wordt op de juiste manier aangemaakt
                 ([[],[],[]])
 
@@ -71,5 +71,5 @@ Indien er geen sprake is van gebruik van functies worden punten niet geteld.
                 - 5pt rijwaarden worden opgeteld
                 - 5pt het juiste getal wordt opgeteld
 
-        5pt de outputbox wordt op een overzichtelijke manier geprint naar het scherm
+        10pt de outputbox wordt op een overzichtelijke manier geprint naar het scherm
 """
